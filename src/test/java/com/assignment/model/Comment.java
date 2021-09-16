@@ -1,4 +1,4 @@
-package com.jsonplaceholder.model;
+package com.assignment.model;
 
 public class Comment {
     private final long postId;

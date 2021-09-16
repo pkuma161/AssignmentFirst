@@ -4,7 +4,7 @@
 This class is used to define endpoint for our test cases.
 
 */
-package com.jsonplaceholder.utilities;
+package com.assignment.utilities;
 import io.restassured.response.Response;
 import static io.restassured.RestAssured.given;
 

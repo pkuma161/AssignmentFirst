@@ -7,7 +7,7 @@ This class is used to define uri path for model objects.
 */
 
 
-package com.jsonplaceholder.utilities;
+package com.assignment.utilities;
 
 public class Routes {
 

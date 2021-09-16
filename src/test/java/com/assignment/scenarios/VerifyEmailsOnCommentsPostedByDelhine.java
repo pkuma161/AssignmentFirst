@@ -1,16 +1,17 @@
-package com.jsonplaceholder.scenarios;
+package com.assignment.scenarios;
 
-import com.jsonplaceholder.utilities.Endpoints;
-import com.jsonplaceholder.utilities.Routes;
-import com.jsonplaceholder.model.Comment;
-import com.jsonplaceholder.model.Post;
-import com.jsonplaceholder.model.User;
 import io.restassured.http.ContentType;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;
 import java.util.List;
+
+import com.assignment.model.Comment;
+import com.assignment.model.Post;
+import com.assignment.model.User;
+import com.assignment.utilities.Endpoints;
+import com.assignment.utilities.Routes;
 
 import static io.restassured.RestAssured.given;
 import static org.apache.http.HttpStatus.SC_OK;
