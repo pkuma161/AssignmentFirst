@@ -1,4 +1,4 @@
-# AssignmentMobiquity
+# AssignmentSurepay
 
 
 #### The tech stack used for this Assignment are:
