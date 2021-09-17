@@ -10,8 +10,8 @@
 * **Rest-Assured**
 
 
-#### Reporting
-HTML Reports can be directly openfrom `/build/reports` directories after a successful run.
+#### CI/CD
+Build can be run successfully on circle CI, use the project config file
 
 
 #### Main features
